@@ -13,10 +13,10 @@
 
 - 📫 How to reach me **gausul.analytics@gmail.com**
 
-- ⚡ I am Sports Player **Cricket ->
-           <h3>  Association of Indian University(AIU) 2024, Volleyball. </h3>
-            <h3> All India Interuniversity Volleyball Championship 2023.  </h3>
-h3
+- ⚡ I am Sports Player **
+           <h3>  Association of Indian University(AIU) 2024, Cricket</h3>
+           <h3>  All India Interuniversity Volleyball Championship 2023.</h3> **
+            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gausul-wara-643783256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gausul-wara-643783256/" height="30" width="40" /></a>
