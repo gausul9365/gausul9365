@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **gausul.analytics@gmail.com**
 
-- ⚡ I am Sports Player **
+- ⚡ I am Sports Player 
            <h3>  Association of Indian University(AIU) 2024, Cricket</h3>
-           <h3>  All India Interuniversity Volleyball Championship 2023.</h3> **
+           <h3>  All India Interuniversity Volleyball Championship 2023.</h3> 
             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
