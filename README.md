@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CompleteFocus** 
+- 🔭 I’m currently working on **Integration of QR Codes + Cryptography** 
 
 - 👨‍💻 Linkdin [https://www.linkedin.com/in/gausul-wara-643783256/](https://www.linkedin.com/in/gausul-wara-643783256/)
 
