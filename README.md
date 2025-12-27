@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Gausul Wara</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">Software Devloper</h3>
+<h4 align="center">⚡Scroll Below to See my Work⚡</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gausul9365&label=Profile%20views&color=0e75b6&style=flat" alt="gausul9365" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Integration of QR Codes + Cryptography** 
+- 🔭 I’m currently working on **Integration of QR Codes + Crypto**
+  
+- **Hobby - Software Architecting and Designing**
+  
+- 💬 **Ask** me deeply about **Core java, Spring Boot, DBMS, react, CLOUD(my fav. - AWS)**
+  
 
-- 👨‍💻 Linkdin [https://www.linkedin.com/in/gausul-wara-643783256/](https://www.linkedin.com/in/gausul-wara-643783256/)
 
-- 💬 Ask me about **Core java, Spring Boot, DBMS, react**
+- <h3>⋆˙⟡ Sports Player with 100% Discipline <h3>
+             <h4>🌟  Association of Indian University(AIU) 2024, Cricket</h4>
+             <h4>🌟  All India Inter-University Volleyball Championship 2023.</h4>
+  
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **gausul.analytics@gmail.com**
+- 👨‍💻 Linkdin [https://www.linkedin.com/in/gausul-wara-643783256/](https://www.linkedin.com/in/gausul-wara-643783256/)
 
-- ⚡ I am Sports Player 
-           <h3>  Association of Indian University(AIU) 2024, Cricket</h3>
-           <h3>  All India Interuniversity Volleyball Championship 2023.</h3> 
-            
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gausul-wara-643783256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gausul-wara-643783256/" height="30" width="40" /></a>
 </p>
