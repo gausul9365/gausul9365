@@ -3,19 +3,17 @@
 <h4 align="center">⚡Scroll Below to See my Work⚡</h4>
 
 
-
--  I’m currently working on **Integration of QR Codes + Crypto**
+  **Ask** me deeply about **Core java, Spring Boot, DBMS, react, CLOUD(my fav. - AWS)**
+  Learning AI, ML, DL,  
+-  best project - **ErrorFixer - Autonomous Log Diagnosis**
   
 - **Hobby - Software Architecting and Designing**
   
--  **Ask** me deeply about **Core java, Spring Boot, DBMS, react, CLOUD(my fav. - AWS)**
+-  
   
 
 
-- <h3>⋆˙⟡ Sports Player with 100% Discipline <h3>
-             <h4>🌟  Association of Indian University(AIU) 2024, Cricket</h4>
-             <h4>🌟  All India Inter-University Volleyball Championship 2023.</h4>
-  
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **gausul.analytics@gmail.com**
