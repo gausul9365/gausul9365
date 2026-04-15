@@ -9,8 +9,6 @@
   
 - **Hobby - Software Architecting and Designing**
   
--  
-  
 
 
 
