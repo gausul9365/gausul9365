@@ -7,7 +7,7 @@
   Learning AI, ML, DL,  
 -  best project - **ErrorFixer - Autonomous Log Diagnosis**
   
-- **Hobby - Software Architecting and Designing**
+- **Passion - Software Architecting and Designing**
   
 
 
